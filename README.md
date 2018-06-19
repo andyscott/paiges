@@ -29,7 +29,7 @@ your `build.sbt` file:
 libraryDependencies += "org.typelevel" %% "paiges-core" % "0.2.0"
 
 // use this snippet for JS, or cross-building
-libraryDependencies += "org.typelevel" %%% "paiges-core" % "0.2.0"
+libraryDependencies += "org.typelevel" %%% "paiges-core" % "0.2.1"
 ```
 
 Paiges also provides types to work with Cats via the *paiges-cats*
@@ -37,10 +37,10 @@ module:
 
 ```scala
 // use this snippet for the JVM
-libraryDependencies += "org.typelevel" %% "paiges-cats" % "0.2.0"
+libraryDependencies += "org.typelevel" %% "paiges-cats" % "0.2.1"
 
 // use this snippet for JS, or cross-building
-libraryDependencies += "org.typelevel" %%% "paiges-cats" % "0.2.0"
+libraryDependencies += "org.typelevel" %%% "paiges-cats" % "0.2.1"
 ```
 
 ## Description
